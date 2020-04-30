@@ -9,7 +9,9 @@ This is a simple Virtual Instrument, designed for interaction between an Arduino
 ---
 
 + Control panel view:
-![Control panel view](https://github.com/vsilchuk/DS18B20_Arduino_LabVIEW/img/control_panel.png "Control panel")
+
+![Control panel view](https://github.com/vsilchuk/DS18B20_Arduino_LabVIEW/blob/master/img/control_panel.png "Control panel")
 
 + Schematic diagram:
-![Schematic diagram](https://github.com/vsilchuk/DS18B20_Arduino_LabVIEW/img/schematic_diagram.png "Schematic diagram")
+
+![Schematic diagram](https://github.com/vsilchuk/DS18B20_Arduino_LabVIEW/blob/master/img/schematic_diagram.png "Schematic diagram")
